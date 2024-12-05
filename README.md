@@ -1,5 +1,4 @@
-
-![image](https://github.com/user-attachments/assets/0064af6c-af76-4aee-93d7-8425d2457ab5)
+![image](https://github.com/user-attachments/assets/adf42003-3659-4dd8-bbf4-13bc21e1a6d6)
 
 A simple NPC that players can pay to restore HP.
 
@@ -11,7 +10,7 @@ Configuration
 
 Quick Addon Presentation Video
 
-[MEDIA=youtube]wRgsqf53Or4[/MEDIA]
+https://youtu.be/wRgsqf53Or4
 
 Installation
 
